@@ -81,10 +81,8 @@ The project structure is as follows:
     ```
 
 2. Access the GraphQL endpoint at `http://localhost:8000/graphql/` to interact with the API.
+   Perform CRUD Operations using GraphQL API
 
-## Perform CRUD Operations using GraphQL API
-
-https://aniketdubey.hashnode.dev/building-a-simple-blogging-graphql-api-with-django-and-strawberry
 
 ## Contributing
 
